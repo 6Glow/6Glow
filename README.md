@@ -22,7 +22,7 @@ I want to become qa software tester with great attention to detail. Ever since I
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/vlad-sushchenko//">
+   <a href="https://www.linkedin.com/in/6glow///">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
   
