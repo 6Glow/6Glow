@@ -1,6 +1,6 @@
 # Hi, I'm Vlad 👋
-##### QA Engineer 
-I want to become qa software tester with great attention to detail. Ever since I started learning testing, I've realized how important it is to be meticulous and team-based.
+##### Python Dev
+I want to become python dev. Ever since I started learning testing, I've realized how important it is to be meticulous and team-based.
 
 
 
