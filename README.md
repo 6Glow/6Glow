@@ -1,6 +1,7 @@
 # Hi, I'm Vlad 👋
-##### Python Dev
-I want to become python dev. Ever since I started learning testing, I've realized how important it is to be meticulous and team-based.
+##### PYTHON DEV 
+I want to become python dev. Ever since I started learning developing, I've realized how important it is to be meticulous and team-based.
+
 
 
 
