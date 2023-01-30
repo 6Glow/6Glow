@@ -29,7 +29,8 @@ I want to become python dev. Ever since I started learning developing, I've real
    📫 How to reach me: <a href='mailto:vladsushchenko6@gmail.com'>vladsushchenko6@gmail.com</a>
 </p>
 
-
+<!-- 
 *   SQL (basic knowledge), Postman, Fiddler, OpenServer, Boomerang, JMeter,
 *   Check list, Test case, Cross browser testing, Functional testing, 
 *   Bug report, Test report, Regression testing
+ -->
