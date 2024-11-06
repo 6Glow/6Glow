@@ -4,7 +4,7 @@
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6Glow&theme=algolia"> 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6Glow&theme=algolia">
 <!--
 **6Glow/6Glow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
