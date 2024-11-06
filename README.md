@@ -2,6 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=6Glow&theme=algolia&hide_border=true&border_radius=7.3&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=400&sideNums=E3EB7D&stroke=EB5454&dates=867B77)](https://git.io/streak-stats)
 
+![snake animation](https://github.com/6Glow/6Glow/blob/main/output/github-contribution-grid-snake2.svg)
 
 
 <!--
