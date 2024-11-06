@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=6Glow&theme=jolly&hide_border=true&border_radius=6.3&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=525&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=6Glow&theme=jolly&hide_border=true&border_radius=5.3&date_format=j%20M%5B%20Y%5D&card_width=525&card_height=200)](https://git.io/streak-stats)
 
 
 
