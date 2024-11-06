@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=6Glow&theme=jolly&hide_border=true&border_radius=6.3&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=525&card_height=200)](https://git.io/streak-stats)
+
+
+
 <!--
 **6Glow/6Glow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
