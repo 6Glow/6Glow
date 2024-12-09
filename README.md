@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!----
+
 ## 🚀 My Projects
 
 ### 1. REST API Next.js
@@ -47,5 +49,25 @@ Here are some ideas to get you started:
   - Authentication
   - Server-Side Rendering
   - API Routes
+
+------>
+  
+# My Projects
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+<div style="border: 1px solid #ccc; padding: 20px; border-radius: 8px; background-color: #1a1a1a; color: #fff;">
+  <h2>REST API Next.js</h2>
+  <p>Description: A modern REST API application using Next.js, providing reliable and scalable server-side API routes for efficient interaction with a MongoDB database.</p>
+  <p>Technologies: Next.js 14.2.5 (React Framework), React 18, TypeScript, MongoDB & Mongoose, Tailwind CSS, API Routes</p>
+</div>
+
+<div style="border: 1px solid #ccc; padding: 20px; border-radius: 8px; background-color: #1a1a1a; color: #fff;">
+  <h2>Full-Stack Blog App</h2>
+  <p>Description: A full-fledged full-stack blog application with advanced features for content creation, user authentication, and interactive blogging.</p>
+  <p>Technologies: Next.js 14.2.5 (React Framework), React 18, TypeScript, MongoDB & Mongoose, Tailwind CSS, Authentication, Server-Side Rendering, API Routes</p>
+</div>
+
+</div>
 
 
