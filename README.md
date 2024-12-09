@@ -51,6 +51,7 @@ Here are some ideas to get you started:
   - Server-Side Rendering
   - API Routes
 
+
 ### 3. Space Website (NASA API)
 [![Space Website](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Space-Website&theme=algolia)](https://github.com/6Glow/Space-Website)
 - **Description:** An interactive website with daily content from NASA using the Astronomy Picture of the Day (APOD) API to display space images and information
@@ -59,6 +60,17 @@ Here are some ideas to get you started:
   - Vite
   - NASA API
   - LocalStorage
+  - TypeScript
+ 
+
+### 4. Recipe App
+[![Recipe App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Recipe-App&theme=algolia)](https://github.com/6Glow/Recipe-App)
+- **Description:** An interactive app for finding and exploring cookery recipes with detailed information about the food, ingredients and cooking instructions
+- **Technologies:** 
+  - React 18
+  - Vite
+  - Spoonacular API
+  - CSS Modules
   - TypeScript
 
 
