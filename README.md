@@ -22,14 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!----
+
 
 ## 🚀 My Projects
 
 ### 1. REST API Next.js
 [![REST API Next.js](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=REST-API-Next.js&theme=algolia)](https://github.com/6Glow/REST-API-Next.js)
 - **Description:**   A modern REST API application using Next.js, providing robust and scalable server-side API routes to efficiently interact with the MongoDB database
-- **Technologies:**  - Next.js 14.2.5 (React Framework)
+- **Technologies:**  
+                  - Next.js 14.2.5 (React Framework)
                   - React: 18
                   - TypeScript
                   - MongoDB & Mongoose
@@ -50,8 +51,10 @@ Here are some ideas to get you started:
   - Server-Side Rendering
   - API Routes
 
------->
-  
+
+
+
+<!-----
 # My Projects
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
@@ -69,5 +72,7 @@ Here are some ideas to get you started:
 </div>
 
 </div>
+
+------->
 
 
