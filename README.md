@@ -26,10 +26,26 @@ Here are some ideas to get you started:
 
 ### 1. REST API Next.js
 [![REST API Next.js](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=REST-API-Next.js&theme=algolia)](https://github.com/6Glow/REST-API-Next.js)
-- Description:   A modern REST API application using Next.js, providing robust and scalable server-side API routes to efficiently interact with the MongoDB database
-- Technologies:   - Next.js 14.2.5 (React Framework)
+- **Description:**   A modern REST API application using Next.js, providing robust and scalable server-side API routes to efficiently interact with the MongoDB database
+- **Technologies:**  - Next.js 14.2.5 (React Framework)
                   - React: 18
                   - TypeScript
                   - MongoDB & Mongoose
                   - Tailwind CSS
                   - API Routes
+
+
+### 2. Full-Stack Blog App
+[![Full-Stack Blog App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Full-Stack_Blog-App&theme=algolia)](https://github.com/6Glow/Full-Stack_Blog-App/tree/main)
+- **Description:** A comprehensive full-stack blog application with advanced features for content creation, user authentication, and interactive blogging experience
+- **Technologies:**
+  - Next.js 14.2.5 (React Framework)
+  - React: 18
+  - TypeScript
+  - MongoDB & Mongoose
+  - Tailwind CSS
+  - Authentication
+  - Server-Side Rendering
+  - API Routes
+
+
