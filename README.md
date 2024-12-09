@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 2. Full-Stack Blog App
 [![Full-Stack Blog App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Full-Stack_Blog-App&theme=algolia)](https://github.com/6Glow/Full-Stack_Blog-App/tree/main)
-- **Description:** A comprehensive full-stack blog application with advanced features for content creation, user authentication, and interactive blogging experience
+- **Description:**   A comprehensive full-stack blog application with advanced features for content creation, user authentication, and interactive blogging experience
 - **Technologies:**
   - Next.js 14.2.5 (React Framework)
   - React: 18
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### 3. Space Website (NASA API)
 [![Space Website](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Space-Website&theme=algolia)](https://github.com/6Glow/Space-Website)
-- **Description:** An interactive website with daily content from NASA using the Astronomy Picture of the Day (APOD) API to display space images and information
+- **Description:**   An interactive website with daily content from NASA using the Astronomy Picture of the Day (APOD) API to display space images and information
 - **Technologies:**
   - React 18
   - Vite
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### 4. Recipe App
 [![Recipe App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Recipe-App&theme=algolia)](https://github.com/6Glow/Recipe-App)
-- **Description:** An interactive app for finding and exploring cookery recipes with detailed information about the food, ingredients and cooking instructions
+- **Description:**   An interactive app for finding and exploring cookery recipes with detailed information about the food, ingredients and cooking instructions
 - **Technologies:** 
   - React 18
   - Vite
@@ -73,6 +73,17 @@ Here are some ideas to get you started:
   - CSS Modules
   - TypeScript
 
+
+### 5. React Admin Dashboard
+[![React Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=React-Admin-Dashboard&theme=algolia)](https://github.com/6Glow/React-Admin-Dashboard)
+- **Description:**   Modern and interactive dashboard with multiple features for monitoring business metrics, data visualisation and navigation
+- **Technologies:**
+  - React 18
+  - Vite
+  - React Router
+  - Recharts
+  - Framer Motion
+  - Tailwind CSS
 
 
 <!-----
