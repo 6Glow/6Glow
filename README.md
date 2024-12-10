@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   - LocalStorage
   - TypeScript
  
-
+<!--
 ### 4. Recipe App
 [![Recipe App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Recipe-App&theme=algolia)](https://github.com/6Glow/Recipe-App)
 - **Description:**   An interactive app for finding and exploring cookery recipes with detailed information about the food, ingredients and cooking instructions
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   - Spoonacular API
   - CSS Modules
   - TypeScript
-
+-->
 
 ### 5. React Admin Dashboard
 [![React Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=React-Admin-Dashboard&theme=algolia)](https://github.com/6Glow/React-Admin-Dashboard)
