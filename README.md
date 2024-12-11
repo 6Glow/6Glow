@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 My Projects
-
+<!---
 ### 1. REST API Next.js
 [![REST API Next.js](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=REST-API-Next.js&theme=algolia)](https://github.com/6Glow/REST-API-Next.js)
 - **Description:**   A modern REST API application using Next.js, providing robust and scalable server-side API routes to efficiently interact with the MongoDB database
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   - Authentication
   - Server-Side Rendering
   - API Routes
-
+--->
 
 ### 3. Space Website (NASA API)
 [![Space Website](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Space-Website&theme=algolia)](https://github.com/6Glow/Space-Website)
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   - TypeScript
  
 
-### 4. Recipe App
+### 4. Recipe App (Spoonacular API)
 [![Recipe App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Recipe-App&theme=algolia)](https://github.com/6Glow/Recipe-App)
 - **Description:**   An interactive app for finding and exploring cookery recipes with detailed information about the food, ingredients and cooking instructions
 - **Technologies:** 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   - CSS Modules
   - TypeScript
 
-
+<!----
 ### 5. React Admin Dashboard
 [![React Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=React-Admin-Dashboard&theme=algolia)](https://github.com/6Glow/React-Admin-Dashboard)
 - **Description:**   Modern and interactive dashboard with multiple features for monitoring business metrics, data visualisation and navigation
@@ -84,6 +84,7 @@ Here are some ideas to get you started:
   - Recharts
   - Framer Motion
   - Tailwind CSS
+  --->
 
 
 <!-----
