@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Vlad Sushchenko] 👋
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B91F7&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Self-Taught+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
