@@ -1,111 +1,116 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B91F7&center=true&vCenter=true&width=435&lines=React+Frontend+Developer;Self-Taught+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=6Glow&theme=algolia&hide_border=true&border_radius=7.3&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=400&sideNums=E3EB7D&stroke=EB5454&dates=867B77&fire=EB8F30)](https://git.io/streak-stats)
-
-<div align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6Glow&theme=algolia"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=6Glow&theme=algolia"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6Glow&theme=algolia">
 </div>
 
-<!--
-**6Glow/6Glow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Self-taught React Frontend Developer passionate about creating beautiful, responsive, and user-friendly web applications. I specialize in modern JavaScript frameworks and love turning complex problems into simple, beautiful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=6Glow&theme=algolia&hide_border=true&border_radius=7.3&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=400&sideNums=E3EB7D&stroke=EB5454&dates=867B77&fire=EB8F30)](https://git.io/streak-stats)
 
+</div>
 
+<!-- ## 💻 Tech Stack
 
-## 🚀 My Projects
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+---------->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6Glow&theme=algolia" alt="Profile Details"> 
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=6Glow&theme=algolia" alt="Stats"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6Glow&theme=algolia" alt="Productive Time">
+</div>
+
+## 🎯 Featured Projects
 
 ### 1. REST API Next.js
 [![REST API Next.js](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=REST-API-Next.js&theme=algolia)](https://github.com/6Glow/REST-API-Next.js)
-- **Description:**   A modern REST API application using Next.js, providing robust and scalable server-side API routes to efficiently interact with the MongoDB database
-- **Technologies:**
-  - Next.js 14.2.5 (React Framework)
-  - React: 18
-  - TypeScript
-  - MongoDB & Mongoose
-  - Tailwind CSS
-  - API Routes
 
+Modern REST API application built with Next.js 14, featuring:
+- 🔄 Robust server-side API routes
+- 📦 MongoDB integration with Mongoose
+- 🛡️ Type-safe development with TypeScript
+- 🎨 Styled with Tailwind CSS
+- 📱 Responsive design principles
 
 ### 2. Full-Stack Blog App
-[![Full-Stack Blog App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Full-Stack_Blog-App&theme=algolia)](https://github.com/6Glow/Full-Stack_Blog-App/tree/main)
-- **Description:**   A comprehensive full-stack blog application with advanced features for content creation, user authentication, and interactive blogging experience
-- **Technologies:**
-  - Next.js 14.2.5 (React Framework)
-  - React: 18
-  - TypeScript
-  - MongoDB & Mongoose
-  - Tailwind CSS
-  - Authentication
-  - Server-Side Rendering
-  - API Routes
+[![Full-Stack Blog App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Full-Stack_Blog-App&theme=algolia)](https://github.com/6Glow/Full-Stack_Blog-App)
 
+Comprehensive blogging platform with:
+- 🔐 User authentication system
+- 📝 Rich text editor for content creation
+- 💾 MongoDB database integration
+- 🚀 Server-side rendering
+- 🎨 Modern UI/UX design
 
-### 3. Space Website (NASA API)
+### 3. Space Website
 [![Space Website](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Space-Website&theme=algolia)](https://github.com/6Glow/Space-Website)
-- **Description:**   An interactive website with daily content from NASA using the Astronomy Picture of the Day (APOD) API to display space images and information
-- **Technologies:**
-  - React 18
-  - Vite
-  - NASA API
-  - LocalStorage
-  - TypeScript
- 
 
-### 4. Recipe App (Spoonacular API)
+Interactive space exploration website featuring:
+- 🌌 NASA APOD API integration
+- 💫 Daily astronomical content
+- 📱 Responsive design
+- 💾 Local storage implementation
+- 🎯 TypeScript for type safety
+
+### 4. Recipe App
 [![Recipe App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Recipe-App&theme=algolia)](https://github.com/6Glow/Recipe-App)
-- **Description:**   An interactive app for finding and exploring cookery recipes with detailed information about the food, ingredients and cooking instructions
-- **Technologies:** 
-  - React 18
-  - Vite
-  - Spoonacular API
-  - CSS Modules
-  - TypeScript
 
+Feature-rich recipe application with:
+- 🍳 Spoonacular API integration
+- 🔍 Advanced recipe search
+- 📋 Detailed ingredient lists
+- 📱 Mobile-first design
+- 🎨 CSS Modules for styling
 
 ### 5. React Admin Dashboard
 [![React Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=React-Admin-Dashboard&theme=algolia)](https://github.com/6Glow/React-Admin-Dashboard)
-- **Description:**   Modern and interactive dashboard with multiple features for monitoring business metrics, data visualisation and navigation
-- **Technologies:**
-  - React 18
-  - Vite
-  - React Router
-  - Recharts
-  - Framer Motion
-  - Tailwind CSS
-    
+
+Modern admin dashboard featuring:
+- 📊 Data visualization with Recharts
+- 🎯 Interactive metrics display
+- 🎨 Tailwind CSS styling
+- 🔄 React Router integration
+- ✨ Framer Motion animations
+
+## 📈 Current Focus
+
+- 🌱 Expanding knowledge in React Server Components
+- 📚 Learning about Web Performance Optimization
+- 🔍 Exploring Advanced State Management Patterns
+- 🎯 Building more full-stack applications
 
 
-<!-----
-# My Projects
+<!---
+## 📫 Let's Connect
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div align="center">
 
-<div style="border: 1px solid #ccc; padding: 20px; border-radius: 8px; background-color: #1a1a1a; color: #fff;">
-  <h2>REST API Next.js</h2>
-  <p>Description: A modern REST API application using Next.js, providing reliable and scalable server-side API routes for efficient interaction with a MongoDB database.</p>
-  <p>Technologies: Next.js 14.2.5 (React Framework), React 18, TypeScript, MongoDB & Mongoose, Tailwind CSS, API Routes</p>
-</div>
-
-<div style="border: 1px solid #ccc; padding: 20px; border-radius: 8px; background-color: #1a1a1a; color: #fff;">
-  <h2>Full-Stack Blog App</h2>
-  <p>Description: A full-fledged full-stack blog application with advanced features for content creation, user authentication, and interactive blogging.</p>
-  <p>Technologies: Next.js 14.2.5 (React Framework), React 18, TypeScript, MongoDB & Mongoose, Tailwind CSS, Authentication, Server-Side Rendering, API Routes</p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
+---->
+---
 
-------->
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=6Glow&color=blue&style=flat-square" alt="Profile views">
+</div>
