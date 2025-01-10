@@ -39,7 +39,7 @@ Self-taught React Frontend Developer passionate about creating beautiful, respon
 </div>
 
 ## 🎯 Featured Projects
-
+<!--
 ### 1. REST API Next.js
 [![REST API Next.js](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=REST-API-Next.js&theme=algolia)](https://github.com/6Glow/REST-API-Next.js)
 
@@ -49,8 +49,8 @@ Modern REST API application built with Next.js 14, featuring:
 - 🛡️ Type-safe development with TypeScript
 - 🎨 Styled with Tailwind CSS
 - 📱 Responsive design principles
-
-### 2. Full-Stack Blog App
+---------->
+### 1. Full-Stack Blog App
 [![Full-Stack Blog App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Full-Stack_Blog-App&theme=algolia)](https://github.com/6Glow/Full-Stack_Blog-App)
 
 Comprehensive blogging platform with:
@@ -60,7 +60,7 @@ Comprehensive blogging platform with:
 - 🚀 Server-side rendering
 - 🎨 Modern UI/UX design
 
-### 3. Space Website
+### 2. Space Website
 [![Space Website](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Space-Website&theme=algolia)](https://github.com/6Glow/Space-Website)
 
 Interactive space exploration website featuring:
@@ -70,7 +70,7 @@ Interactive space exploration website featuring:
 - 💾 Local storage implementation
 - 🎯 TypeScript for type safety
 
-### 4. Recipe App
+### 3. Recipe App
 [![Recipe App](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=Recipe-App&theme=algolia)](https://github.com/6Glow/Recipe-App)
 
 Feature-rich recipe application with:
@@ -80,7 +80,7 @@ Feature-rich recipe application with:
 - 📱 Mobile-first design
 - 🎨 CSS Modules for styling
 
-### 5. React Admin Dashboard
+### 4. React Admin Dashboard
 [![React Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=6Glow&repo=React-Admin-Dashboard&theme=algolia)](https://github.com/6Glow/React-Admin-Dashboard)
 
 Modern admin dashboard featuring:
